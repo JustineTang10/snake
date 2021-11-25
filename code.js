@@ -3,17 +3,17 @@ window.snake.more_menu = function(e) {
   
   // micro
   let img = new Image;
-  img.src = 'snakepics/micro-1.png';
+  img.src = './snakepics/micro-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
-  // tiny
+  /*// tiny
   img = new Image;
   img.src = 'https://i.postimg.cc/dtr6JBNh/tiny-1.png';
   img.width = 47;
   img.height = 47;
-  document.querySelector('#size').appendChild(img);
+  document.querySelector('#size').appendChild(img);*/
 
   // super big
   img = new Image;

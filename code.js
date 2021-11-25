@@ -3,7 +3,7 @@ window.snake.more_menu = function(e) {
   
   // micro
   let img = new Image;
-  img.src = 'https://github.com/JustineTang10/snake/blob/main/snakepics/micro-1.png';
+  img.src = 'https://github.com/JustineTang10/snake/blob/2b3d3b9ce43619dd474b18f4965a3d63ce076287/snakepics/micro-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
